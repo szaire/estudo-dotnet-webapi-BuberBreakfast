@@ -1,0 +1,2 @@
+O BuberBreakfast.Contracts estabelece o modelo dos corpos de requisição da API, ou seja,
+o que será requisitado e o que será retornado.
